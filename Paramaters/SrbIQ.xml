@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+	<Srb>	
+		
+			<Wire>
+				<WireNumber>1</WireNumber>
+				<WireDiameter>800</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>2</WireNumber>
+				<WireDiameter>630</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>3</WireNumber>
+				<WireDiameter>500</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>4</WireNumber>
+				<WireDiameter>400</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>5</WireNumber>
+				<WireDiameter>320</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>6</WireNumber>
+				<WireDiameter>250</WireDiameter>
+			</Wire>
+				<Wire>
+				<WireNumber>7</WireNumber>
+				<WireDiameter>200</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>8</WireNumber>
+				<WireDiameter>160</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>9</WireNumber>
+				<WireDiameter>130</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>10</WireNumber>
+				<WireDiameter>100</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>11</WireNumber>
+				<WireDiameter>80</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>12</WireNumber>
+				<WireDiameter>60</WireDiameter>
+			</Wire>
+			<Wire>
+				<WireNumber>13</WireNumber>
+				<WireDiameter>50</WireDiameter>
+			</Wire>
+			
+		
+		
+			<image name='CRPhantom7'>
+				<imagepath>C:/Users/212719605/Downloads/text-skew-correction/Images/CRPhantomv2.tif</imagepath>
+				<pixelsize>35.0</pixelsize>
+			</image>
+			<image name='DuplexPlate2'>
+				<imagepath>C:/Users/212719605/Downloads/text-skew-correction/Images/Duplex Plate2srb1.tif</imagepath>
+				<pixelsize>100</pixelsize>
+			</image>
+			<image name='DoubleDuplex'>
+				<imagepath>C:/Users/212719605/Downloads/text-skew-correction/Images/DoubleDuplex_Horizontalsrb1.tif</imagepath>
+				<pixelsize>100</pixelsize>
+			</image>
+			<image name='CRTestPhantom2'>
+				<imagepath>C:/Users/212719605/Downloads/text-skew-correction/Images/CRTestPhantom2Horizontalsrb1.tif</imagepath>
+				<pixelsize>70</pixelsize>
+			</image>
+		
+	</Srb>
